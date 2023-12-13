@@ -17,3 +17,8 @@ Users can switch between dark and light mode for a personalized viewing experien
 
 5. Word Cloud Visualization:
 Creates a word cloud visualization to highlight the most frequent words in the input text. This can be a visually appealing way to showcase the key terms influencing the model's decision.
+
+
+Model was too large to upload that's why you can configure the model through jupyter file uploaded here
+
+You all can download the datasets thorugh kaggle by simply searching fake news and downloading two datasets, one for fake news & one for true news.
